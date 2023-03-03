@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$wblp9Q5dookiK7YJ7m5vheTxAO8hALGLmXfZAxxI5AYcYDAQ2Nkoe",
+      "permission": 1,
+      "fullname": "admin",
+      "phone": "",
+      "id": 1,
+      "state": 2
+    },
+    {
+      "email": "khoapub@gmail.com",
+      "password": "$2a$10$0Tgf6kAQXjKIeEmtFRHan.bFzgOvC8QnVpa4xU39qfXSs0L/3D8su",
+      "fullname": "Mai Anh Khoa",
+      "phone": "0989888999",
+      "state": 1,
+      "permission": 0,
+      "id": 2
+    },
+    {
+      "email": "hoaphat@gmail.com",
+      "password": "$2a$10$DBLuu8yOQrSKsEA1U/7c3.lauRcxMM7tGWlgvwMRZiBWgHq3q6Fz2",
+      "fullname": "Hoa Phat 11",
+      "phone": "0989888999",
+      "state": 1,
+      "permission": 0,
+      "id": 3,
+      "repassword": "java112022"
+    },
+    {
+      "email": "trongnhan@gmail.com",
+      "password": "$2a$10$9Nl4Zxh6Hp2PNSvxlwVS8ey0omRNgS3KM8xbfhfogZ3zW9XN3L1.a",
+      "fullname": "Nguyen Trong Nhan",
+      "phone": "0989511333",
+      "state": 1,
+      "permission": 0,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "videoSrc": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/video%2FautumnLeaves2.mp4.mp4?alt=media&token=b7d94346-4c7f-461b-a26c-64f48a930cb9",
+      "promotion": "40",
+      "titleProduct": "Tour Leo Núi Phú Sỹ",
+      "rate": 5,
+      "from": "Đà Nẵng",
+      "price": 35000000,
+      "currencyUnit": "vnd",
+      "img": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fthap-3.jpg?alt=media&token=154a329e-7737-4f56-ab04-40a1173e3157",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2F17.12.7.jpg?alt=media&token=3091126a-36f0-4781-9550-b85d2913bfc9",
+        "img3": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2FFushimi-Inari-Taisha.jpg?alt=media&token=9d556ddf-6272-4c7a-912e-727f239dc366",
+        "img4": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fchua-tt1.jpg?alt=media&token=24c2d0dc-b217-49cb-9080-3b108c63104f",
+        "img5": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fchua1.jpg?alt=media&token=abeb4ad4-4d42-4481-9595-83174c3196cc",
+        "img6": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fconng-vien-nara.jpg?alt=media&token=a6b579fe-acca-4e4d-8c1a-f17db61fb335",
+        "img7": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fden-todaiji.jpg?alt=media&token=0140ad88-98b9-4b98-8cc0-1feb4bff2a8a",
+        "img8": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fden-todaiji.jpg?alt=media&token=0140ad88-98b9-4b98-8cc0-1feb4bff2a8a"
+      },
+      "cmt": {
+        "cmt1": " “Tokyo is AWESOME!” ",
+        "cmt2": " We just got back from spending 9 amazing days in Tokyo, and already want to go back. There is so much to see and do there. For those who have never been to a foreign country, don't let that stop you. Tokyo is very safe. And the language barrier is difficult at times, but there are enough Japanese that speak at least some English that this is not a problem. I traveled with my sister plus my older teenage daughter and son. We felt perfectly safe everywhere we went, day or night.",
+        "cmt3": "You travel everywhere on trains which are fast and efficient. My best recommendation is to buy a Suica card that you can easily add money to in any subway station. Then just flash your card when going through the turnstiles. It automatically subtracts the correct subway fare. You can even use the Suica card to buy merchandise at some stores. Tokyo is an amazing city of both old and new. Ancient shrines will be surrounded by modern buildings",
+        "cmt4": "There are shrines, museums, marketplaces, restaurants, literally no end of places to go and things to see. You could spend years exploring Japan; there is so much to see and do. Highlights of our trip were Disney Sea, the Ghibli Museum, Kamakura (a small town near Yokohama), the Ramen Museum, and Asakusa (where they have beautiful shrines as well as a marketplace). Tokyo is a very clean city. It's safe to drink the water. You don't need any special shots. The people are very welcoming. Several times when we needed directions the person we asked walked several blocks out of their way to show us where to go. If we looked lost kind people would come up and ask if we needed help.",
+        "cmt5": "From ordering food at restaurants to traveling around the city, there were always friendly Japanese people who would kindly help us. If you aren't an adventurous eater and aren't sure if you will like the food over there, there is a large American fast food presence in Japan; Mc Donald's, KFC, Mos Burger, Wendy's, Hard Rock Cafe, Domino's Pizza, and many more. But you MUST also try some of the delicious local foods as well.",
+        "cmt6": "I highly recommend Tokyo as a great place to travel. It is a wonderful destination - you won't regret it. I cant' wait to go back."
+      }
+    },
+    {
+      "id": 2,
+      "videoSrc": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/video%2FPeace.mp4?alt=media&token=b9847b18-9062-4b52-970a-1b1e3fddedeb",
+      "promotion": "38",
+      "titleProduct": "Tour du lịch KanSai ",
+      "rate": 5,
+      "from": "Huế",
+      "price": "35000000",
+      "currencyUnit": "vnd",
+      "img": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fthap-3.jpg?alt=media&token=154a329e-7737-4f56-ab04-40a1173e3157",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2F17.12.7.jpg?alt=media&token=3091126a-36f0-4781-9550-b85d2913bfc9",
+        "img3": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2FFushimi-Inari-Taisha.jpg?alt=media&token=9d556ddf-6272-4c7a-912e-727f239dc366",
+        "img4": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fchua-tt1.jpg?alt=media&token=24c2d0dc-b217-49cb-9080-3b108c63104f",
+        "img5": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fchua1.jpg?alt=media&token=abeb4ad4-4d42-4481-9595-83174c3196cc",
+        "img6": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fconng-vien-nara.jpg?alt=media&token=a6b579fe-acca-4e4d-8c1a-f17db61fb335",
+        "img7": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fden-todaiji.jpg?alt=media&token=0140ad88-98b9-4b98-8cc0-1feb4bff2a8a",
+        "img8": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fden-todaiji.jpg?alt=media&token=0140ad88-98b9-4b98-8cc0-1feb4bff2a8a"
+      },
+      "cmt": {
+        "cmt1": " “Tokyo is AWESOME!” ",
+        "cmt2": "We just got back from spending 9 amazing days in Tokyo, and already want to go back. There is so much to see and do there. For those who have never been to a foreign country, don't let that stop you. Tokyo is very safe. And the language barrier is difficult at times, but there are enough Japanese that speak at least some English that this is not a problem. I traveled with my sister plus my older teenage daughter and son. We felt perfectly safe everywhere we went, day or night.",
+        "cmt3": "You travel everywhere on trains which are fast and efficient. My best recommendation is to buy a Suica card that you can easily add money to in any subway station. Then just flash your card when going through the turnstiles. It automatically subtracts the correct subway fare. You can even use the Suica card to buy merchandise at some stores. Tokyo is an amazing city of both old and new. Ancient shrines will be surrounded by modern buildings",
+        "cmt4": "There are shrines, museums, marketplaces, restaurants, literally no end of places to go and things to see. You could spend years exploring Japan; there is so much to see and do. Highlights of our trip were Disney Sea, the Ghibli Museum, Kamakura (a small town near Yokohama), the Ramen Museum, and Asakusa (where they have beautiful shrines as well as a marketplace). Tokyo is a very clean city. It's safe to drink the water. You don't need any special shots. The people are very welcoming. Several times when we needed directions the person we asked walked several blocks out of their way to show us where to go. If we looked lost kind people would come up and ask if we needed help.",
+        "cmt5": "From ordering food at restaurants to traveling around the city, there were always friendly Japanese people who would kindly help us. If you aren't an adventurous eater and aren't sure if you will like the food over there, there is a large American fast food presence in Japan; Mc Donald's, KFC, Mos Burger, Wendy's, Hard Rock Cafe, Domino's Pizza, and many more. But you MUST also try some of the delicious local foods as well.",
+        "cmt6": "I highly recommend Tokyo as a great place to travel. It is a wonderful destination - you won't regret it. I cant' wait to go back."
+      },
+      "cmt2": " We just got back from spending 9 amazing days in Tokyo, and already want to go back. There is so much to see and do there. For those who have never been to a foreign country, don't let that stop you. Tokyo is very safe. And the language barrier is difficult at times, but there are enough Japanese that speak at least some English that this is not a problem. I traveled with my sister plus my older teenage daughter and son. We felt perfectly safe everywhere we went, day or night.",
+      "cmt3": "You travel everywhere on trains which are fast and efficient. My best recommendation is to buy a Suica card that you can easily add money to in any subway station. Then just flash your card when going through the turnstiles. It automatically subtracts the correct subway fare. You can even use the Suica card to buy merchandise at some stores. Tokyo is an amazing city of both old and new. Ancient shrines will be surrounded by modern buildings",
+      "cmt4": "There are shrines, museums, marketplaces, restaurants, literally no end of places to go and things to see. You could spend years exploring Japan; there is so much to see and do. Highlights of our trip were Disney Sea, the Ghibli Museum, Kamakura (a small town near Yokohama), the Ramen Museum, and Asakusa (where they have beautiful shrines as well as a marketplace). Tokyo is a very clean city. It's safe to drink the water. You don't need any special shots. The people are very welcoming. Several times when we needed directions the person we asked walked several blocks out of their way to show us where to go. If we looked lost kind people would come up and ask if we needed help.",
+      "cmt5": "From ordering food at restaurants to traveling around the city, there were always friendly Japanese people who would kindly help us. If you aren't an adventurous eater and aren't sure if you will like the food over there, there is a large American fast food presence in Japan; Mc Donald's, KFC, Mos Burger, Wendy's, Hard Rock Cafe, Domino's Pizza, and many more. But you MUST also try some of the delicious local foods as well.",
+      "cmt6": "I highly recommend Tokyo as a great place to travel. It is a wonderful destination - you won't regret it. I cant' wait to go back."
+    },
+    {
+      "id": 3,
+      "videoSrc": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/video%2FwaterFall.mp4?alt=media&token=6e49ce1f-2ce7-49ab-b1f4-dae5b068d51d",
+      "promotion": "38",
+      "titleProduct": "Tour Leo Ngắm Lá Vàng",
+      "rate": 5,
+      "from": "Hà Nội",
+      "price": 35000000,
+      "currencyUnit": "vnd",
+      "img": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FKoishikawa-Korakuen.jpg?alt=media&token=6135a18e-36dd-4765-abc3-8bd3f8c1c121",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FMitakesan.jpg?alt=media&token=204b9a2c-ff91-440b-ae45-ba1f6b986dc2",
+        "img3": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FNui-Takao.jpg?alt=media&token=a4ff1c26-192e-4c49-8447-0b9a2c8f627c",
+        "img4": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FRikugien-park.jpg?alt=media&token=97b698bc-2ebc-4528-8450-308e57f4be35",
+        "img5": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FYoyogi-Koen.jpg?alt=media&token=9a6aeaeb-aa61-4ab1-84bd-159cdbaccb61",
+        "img6": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Fcong-viem-Inokashira.jpg?alt=media&token=926a7c0d-bb95-45f8-8780-625a58ef1b49",
+        "img7": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Fcong-vien-Showa-Kinen.jpg?alt=media&token=a033c5bd-fd98-4fab-bb89-c5eab5f62a1b",
+        "img8": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Ficho-namiki-gingo-avenue.jpg?alt=media&token=6e8a520a-b9ea-4791-8da7-cb6d685cbb90"
+      },
+      "cmt": {
+        "cmt1": " “Tokyo is AWESOME!” ",
+        "cmt2": " We just got back from spending 9 amazing days in Tokyo, and already want to go back. There is so much to see and do there. For those who have never been to a foreign country, don't let that stop you. Tokyo is very safe. And the language barrier is difficult at times, but there are enough Japanese that speak at least some English that this is not a problem. I traveled with my sister plus my older teenage daughter and son. We felt perfectly safe everywhere we went, day or night.",
+        "cmt3": "You travel everywhere on trains which are fast and efficient. My best recommendation is to buy a Suica card that you can easily add money to in any subway station. Then just flash your card when going through the turnstiles. It automatically subtracts the correct subway fare. You can even use the Suica card to buy merchandise at some stores. Tokyo is an amazing city of both old and new. Ancient shrines will be surrounded by modern buildings",
+        "cmt4": "There are shrines, museums, marketplaces, restaurants, literally no end of places to go and things to see. You could spend years exploring Japan; there is so much to see and do. Highlights of our trip were Disney Sea, the Ghibli Museum, Kamakura (a small town near Yokohama), the Ramen Museum, and Asakusa (where they have beautiful shrines as well as a marketplace). Tokyo is a very clean city. It's safe to drink the water. You don't need any special shots. The people are very welcoming. Several times when we needed directions the person we asked walked several blocks out of their way to show us where to go. If we looked lost kind people would come up and ask if we needed help.",
+        "cmt5": "From ordering food at restaurants to traveling around the city, there were always friendly Japanese people who would kindly help us. If you aren't an adventurous eater and aren't sure if you will like the food over there, there is a large American fast food presence in Japan; Mc Donald's, KFC, Mos Burger, Wendy's, Hard Rock Cafe, Domino's Pizza, and many more. But you MUST also try some of the delicious local foods as well.",
+        "cmt6": "I highly recommend Tokyo as a great place to travel. It is a wonderful destination - you won't regret it. I cant' wait to go back."
+      }
+    },
+    {
+      "id": 4,
+      "videoSrc": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/video%2FhotSpring%C2%B7.mp4?alt=media&token=c2101dcf-7ad0-4a2d-bdb6-2f3d4a9addd6",
+      "promotion": "40",
+      "titleProduct": "Tour Leo Ngắm Lá Vàng",
+      "rate": 5,
+      "from": "Huế",
+      "price": "20000000",
+      "currencyUnit": "vnd",
+      "img": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FKoishikawa-Korakuen.jpg?alt=media&token=6135a18e-36dd-4765-abc3-8bd3f8c1c121",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FMitakesan.jpg?alt=media&token=204b9a2c-ff91-440b-ae45-ba1f6b986dc2",
+        "img3": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FNui-Takao.jpg?alt=media&token=a4ff1c26-192e-4c49-8447-0b9a2c8f627c",
+        "img4": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FRikugien-park.jpg?alt=media&token=97b698bc-2ebc-4528-8450-308e57f4be35",
+        "img5": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FYoyogi-Koen.jpg?alt=media&token=9a6aeaeb-aa61-4ab1-84bd-159cdbaccb61",
+        "img6": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Fcong-viem-Inokashira.jpg?alt=media&token=926a7c0d-bb95-45f8-8780-625a58ef1b49",
+        "img7": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Fcong-vien-Showa-Kinen.jpg?alt=media&token=a033c5bd-fd98-4fab-bb89-c5eab5f62a1b",
+        "img8": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Ficho-namiki-gingo-avenue.jpg?alt=media&token=6e8a520a-b9ea-4791-8da7-cb6d685cbb90"
+      },
+      "cmt": {
+        "cmt1": " “Tokyo is AWESOME!” ",
+        "cmt2": " We just got back from spending 9 amazing days in Tokyo, and already want to go back. There is so much to see and do there. For those who have never been to a foreign country, don't let that stop you. Tokyo is very safe. And the language barrier is difficult at times, but there are enough Japanese that speak at least some English that this is not a problem. I traveled with my sister plus my older teenage daughter and son. We felt perfectly safe everywhere we went, day or night.",
+        "cmt3": "You travel everywhere on trains which are fast and efficient. My best recommendation is to buy a Suica card that you can easily add money to in any subway station. Then just flash your card when going through the turnstiles. It automatically subtracts the correct subway fare. You can even use the Suica card to buy merchandise at some stores. Tokyo is an amazing city of both old and new. Ancient shrines will be surrounded by modern buildings",
+        "cmt4": "There are shrines, museums, marketplaces, restaurants, literally no end of places to go and things to see. You could spend years exploring Japan; there is so much to see and do. Highlights of our trip were Disney Sea, the Ghibli Museum, Kamakura (a small town near Yokohama), the Ramen Museum, and Asakusa (where they have beautiful shrines as well as a marketplace). Tokyo is a very clean city. It's safe to drink the water. You don't need any special shots. The people are very welcoming. Several times when we needed directions the person we asked walked several blocks out of their way to show us where to go. If we looked lost kind people would come up and ask if we needed help.",
+        "cmt5": "From ordering food at restaurants to traveling around the city, there were always friendly Japanese people who would kindly help us. If you aren't an adventurous eater and aren't sure if you will like the food over there, there is a large American fast food presence in Japan; Mc Donald's, KFC, Mos Burger, Wendy's, Hard Rock Cafe, Domino's Pizza, and many more. But you MUST also try some of the delicious local foods as well.",
+        "cmt6": "I highly recommend Tokyo as a great place to travel. It is a wonderful destination - you won't regret it. I cant' wait to go back."
+      }
+    },
+    {
+      "id": 5,
+      "videoSrc": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/video%2FautumnLeaves.mp4?alt=media&token=dcc0d149-6244-4471-8e8d-1404250e9b33",
+      "promotion": "38",
+      "titleProduct": "Tour Leo Ngắm Lá Vàng",
+      "rate": 5,
+      "from": "Hà Nội",
+      "price": 35000000,
+      "currencyUnit": "vnd",
+      "img": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FKoishikawa-Korakuen.jpg?alt=media&token=6135a18e-36dd-4765-abc3-8bd3f8c1c121",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FMitakesan.jpg?alt=media&token=204b9a2c-ff91-440b-ae45-ba1f6b986dc2",
+        "img3": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FNui-Takao.jpg?alt=media&token=a4ff1c26-192e-4c49-8447-0b9a2c8f627c",
+        "img4": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FRikugien-park.jpg?alt=media&token=97b698bc-2ebc-4528-8450-308e57f4be35",
+        "img5": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2FYoyogi-Koen.jpg?alt=media&token=9a6aeaeb-aa61-4ab1-84bd-159cdbaccb61",
+        "img6": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Fcong-viem-Inokashira.jpg?alt=media&token=926a7c0d-bb95-45f8-8780-625a58ef1b49",
+        "img7": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Fcong-vien-Showa-Kinen.jpg?alt=media&token=a033c5bd-fd98-4fab-bb89-c5eab5f62a1b",
+        "img8": "https://firebasestorage.googleapis.com/v0/b/md2-reactjs.appspot.com/o/images%2FslideProducts%2Fsli3%2Ficho-namiki-gingo-avenue.jpg?alt=media&token=6e8a520a-b9ea-4791-8da7-cb6d685cbb90"
+      },
+      "cmt": {
+        "cmt1": " “Tokyo is AWESOME!” ",
+        "cmt2": " We just got back from spending 9 amazing days in Tokyo, and already want to go back. There is so much to see and do there. For those who have never been to a foreign country, don't let that stop you. Tokyo is very safe. And the language barrier is difficult at times, but there are enough Japanese that speak at least some English that this is not a problem. I traveled with my sister plus my older teenage daughter and son. We felt perfectly safe everywhere we went, day or night.",
+        "cmt3": "You travel everywhere on trains which are fast and efficient. My best recommendation is to buy a Suica card that you can easily add money to in any subway station. Then just flash your card when going through the turnstiles. It automatically subtracts the correct subway fare. You can even use the Suica card to buy merchandise at some stores. Tokyo is an amazing city of both old and new. Ancient shrines will be surrounded by modern buildings",
+        "cmt4": "There are shrines, museums, marketplaces, restaurants, literally no end of places to go and things to see. You could spend years exploring Japan; there is so much to see and do. Highlights of our trip were Disney Sea, the Ghibli Museum, Kamakura (a small town near Yokohama), the Ramen Museum, and Asakusa (where they have beautiful shrines as well as a marketplace). Tokyo is a very clean city. It's safe to drink the water. You don't need any special shots. The people are very welcoming. Several times when we needed directions the person we asked walked several blocks out of their way to show us where to go. If we looked lost kind people would come up and ask if we needed help.",
+        "cmt5": "From ordering food at restaurants to traveling around the city, there were always friendly Japanese people who would kindly help us. If you aren't an adventurous eater and aren't sure if you will like the food over there, there is a large American fast food presence in Japan; Mc Donald's, KFC, Mos Burger, Wendy's, Hard Rock Cafe, Domino's Pizza, and many more. But you MUST also try some of the delicious local foods as well.",
+        "cmt6": "I highly recommend Tokyo as a great place to travel. It is a wonderful destination - you won't regret it. I cant' wait to go back."
+      }
+    }
+  ]
+}
